@@ -1,0 +1,11 @@
+{1: {…}, 2: {…}, 3: {…}}
+M04.BookShelf_Victor_2OBJ.js:14
+1 = {genre: 'history', books: Array(2)}
+2 = {genre: 'mystery', books: Array(1)}
+3 = {genre: 'sci-fi', books: Array(3)}
+[[Prototype]] = Object
+{history: {…}, mystery: {…}, sci-fi: {…}}
+M04.BookShelf_Victor_2OBJ.js:15
+history = {id: '1', books: Array(2)}
+mystery = {id: '2', books: Array(1)}
+sci-fi = {id: '3', books: Array(3)}
